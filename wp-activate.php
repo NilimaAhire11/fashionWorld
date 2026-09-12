@@ -184,6 +184,7 @@ $blog_details = get_site();
 			<p><span class="h3"><?php _e( 'Password:' ); ?></span> <?php echo $result['password']; ?></p>
 			</div>
 
+		
 			<?php
 			if ( $url && network_home_url( '', 'http' ) !== $url ) :
 				switch_to_blog( (int) $result['blog_id'] );
