@@ -34,6 +34,7 @@ if ( ! empty( $_POST ) || defined( 'DOING_AJAX' ) || defined( 'DOING_CRON' ) ) {
 	die();
 }
 
+
 /**
  * Tell WordPress the cron task is running.
  *
