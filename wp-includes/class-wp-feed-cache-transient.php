@@ -31,6 +31,7 @@ class WP_Feed_Cache_Transient {
 	 */
 	public $mod_name;
 
+	
 	/**
 	 * Holds the cache duration in seconds.
 	 *
