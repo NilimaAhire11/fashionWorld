@@ -28,6 +28,7 @@ Copies of each of the above licenses are included in the 'licenses'
 directory of the getID3 distribution.
 
 
+
        +----------------------------------------------+
        | If you want to donate, there is a link on    |
        | https://www.getid3.org for PayPal donations. |
